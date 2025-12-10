@@ -29,10 +29,10 @@ GitHub → Version control & project hosting
 📂 Project Structure
 📁 Customer-Purchase-Behavior-Analysis
 │
-├── 📄 data cleaning using python.ipynb     # Python cleaning notebook
-├── 📄 sql queries.sql                      # PostgreSQL queries
-├── 📄 power bi dashboard.pbix              # Power BI dashboard file
-├── 📄 README.md                            # Project documentation
+├── 📄 data cleaning using python.ipynb     
+├── 📄 sql queries.sql                      
+├── 📄 power bi dashboard.pbix              
+├── 📄 README.md                            
 
  Key Steps Performed
 1️⃣ Data Cleaning (Python)
