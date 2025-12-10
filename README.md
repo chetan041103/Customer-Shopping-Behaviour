@@ -29,6 +29,7 @@ GitHub → Version control & project hosting
 📂 Project Structure
 📁 Customer-Purchase-Behavior-Analysis
 │
+
 ├── 📄 data cleaning using python.ipynb     
 ├── 📄 sql queries.sql                      
 ├── 📄 power bi dashboard.pbix              
